@@ -1,6 +1,7 @@
 # Demo
 
-Some description!
+This isn't any serious code. 
+I'm just following along with some tutorial to familiarize myself with github.
 
 ## Subheader
 
